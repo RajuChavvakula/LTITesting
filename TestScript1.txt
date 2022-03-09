@@ -3,4 +3,8 @@ public class Test1{
 kpublic void TC1{
 System.out.println("test case1-login")
 }
+@Test
+kpublic void TC1{
+System.out.println("test case1-register")
+}
 }
