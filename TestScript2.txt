@@ -1,0 +1,6 @@
+public class Test2{
+@Test
+kpublic void TC2{
+System.out.println("test case2-login")
+}
+}
